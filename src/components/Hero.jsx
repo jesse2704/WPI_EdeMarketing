@@ -21,7 +21,7 @@ export default function Hero() {
           {/* Small tag line */}
           <div className="flex items-center gap-3 mb-6">
             <div className="w-8 h-px bg-white"></div>
-            <span className="text-white/50 text-sm uppercase tracking-widest font-medium">Ede Marketing</span>
+            <img src="/logo-wordmark.svg" alt="Ede Marketing" className="h-5 w-auto opacity-50" />
           </div>
 
           {/* Main headline */}

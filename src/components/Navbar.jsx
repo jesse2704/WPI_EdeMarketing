@@ -17,11 +17,9 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
-          <a href="#" className="flex items-center gap-2">
-            <div className="w-8 h-8 bg-white flex items-center justify-center">
-              <span className="text-black font-black text-sm">EM</span>
-            </div>
-            <span className="text-white font-bold text-xl tracking-tight">Ede Marketing</span>
+          <a href="#" aria-label="Ede Marketing – Home" className="flex items-center gap-2">
+            <img src="/logo-icon.svg" alt="" className="w-10 h-10" />
+            <img src="/logo-wordmark.svg" alt="Ede Marketing" className="h-7 w-auto hidden sm:block" />
           </a>
 
           {/* Desktop Nav */}

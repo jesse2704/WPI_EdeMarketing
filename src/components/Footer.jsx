@@ -16,11 +16,9 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-12">
           {/* Brand */}
           <div>
-            <div className="flex items-center gap-2 mb-4">
-              <div className="w-8 h-8 bg-white flex items-center justify-center">
-                <span className="text-black font-black text-sm">EM</span>
-              </div>
-              <span className="text-white font-bold text-xl tracking-tight">Ede Marketing</span>
+            <div className="flex items-center gap-3 mb-4">
+              <img src="/logo-icon.svg" alt="Ede Marketing icon" className="w-10 h-10" />
+              <img src="/logo-wordmark.svg" alt="Ede Marketing" className="h-7 w-auto" />
             </div>
             <p className="text-white/40 text-sm leading-relaxed">{t.footer.slogan}</p>
           </div>
