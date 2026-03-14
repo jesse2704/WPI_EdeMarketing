@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Dark radial background matching the original -->
+  <defs>
+    <radialGradient id="bgGrad" cx="50%" cy="50%" r="55%">
+      <stop offset="0%" stop-color="#1c1c1c"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </radialGradient>
+  </defs>
+  <rect width="200" height="200" fill="url(#bgGrad)"/>
+
+  <!--
+    The logo shows "ED" letters with a rising stock-market arrow
+    cutting diagonally through them from lower-left to upper-right.
+    The arrow is the dominant visual; the letters sit behind/around it.
+  -->
+
+  <!-- Letter E  (left, block-style) -->
+  <!-- Spine -->
+  <rect x="38" y="95" width="15" height="58" fill="white"/>
+  <!-- Top bar -->
+  <rect x="38" y="95" width="36" height="14" fill="white"/>
+  <!-- Mid bar -->
+  <rect x="38" y="120" width="28" height="12" fill="white"/>
+  <!-- Bottom bar -->
+  <rect x="38" y="139" width="36" height="14" fill="white"/>
+
+  <!-- Letter D  (right, block-style with curved right edge) -->
+  <!-- Spine -->
+  <rect x="96" y="95" width="15" height="58" fill="white"/>
+  <!-- Top cap -->
+  <rect x="96" y="95" width="26" height="14" fill="white"/>
+  <!-- Bottom cap -->
+  <rect x="96" y="139" width="26" height="14" fill="white"/>
+  <!-- Rounded body -->
+  <path d="M122 109 Q155 124 122 139 Z" fill="white"/>
+  <rect x="120" y="109" width="10" height="30" fill="white"/>
+  <!-- Inner cutout of D -->
+  <path d="M111 115 Q130 124 111 133 Z" fill="black"/>
+  <rect x="111" y="115" width="10" height="18" fill="black"/>
+
+  <!-- Rising arrow / trend line (the dominant graphic) -->
+  <!-- Chart zigzag then shoots up-right -->
+  <polyline
+    points="32,152 58,122 82,136 110,102 148,62"
+    fill="none"
+    stroke="white"
+    stroke-width="13"
+    stroke-linecap="square"
+    stroke-linejoin="miter"
+  />
+  <!-- Arrowhead at top-right -->
+  <polygon points="148,62  126,52  134,74" fill="white"/>
+
+  <!-- 4-pointed star / diamond (bottom-right corner) -->
+  <g transform="translate(178,182)">
+    <polygon points="0,-7 2,-2 7,0 2,2 0,7 -2,2 -7,0 -2,-2" fill="#777"/>
+  </g>
+</svg>
