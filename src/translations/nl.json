@@ -1,0 +1,162 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Diensten",
+    "process": "Werkwijze",
+    "faq": "FAQ",
+    "packages": "Pakketten",
+    "contact": "Contact"
+  },
+  "hero": {
+    "tagline": "Laat Je Bedrijf Online Groeien",
+    "subtitle": "Resultaatgerichte marketingstrategieën op maat van jouw bedrijf. Wij helpen lokale bedrijven hun markt te domineren.",
+    "cta": "Gratis Analyse"
+  },
+  "valueProps": {
+    "title": "Waarom Ede Marketing?",
+    "items": [
+      {
+        "title": "Resultaatgerichte Strategieën",
+        "desc": "Marketing gericht op echte groei, niet alleen clicks."
+      },
+      {
+        "title": "Persoonlijke Aanpak",
+        "desc": "Geen standaard oplossingen, maar strategie op maat."
+      },
+      {
+        "title": "Data-Gedreven Marketing",
+        "desc": "Beslissingen gebaseerd op data, niet op gokken."
+      }
+    ]
+  },
+  "benefits": {
+    "title": "Waarom SEO?",
+    "items": [
+      {
+        "title": "Zichtbaarheid",
+        "desc": "De meeste potentiële klanten kiezen een van de eerste resultaten die ze zien. Als jouw bedrijf niet minimaal in de top 3 staat, loop je waardevolle kansen mis."
+      },
+      {
+        "title": "Geen Doorlopende Advertentiekosten",
+        "desc": "In tegenstelling tot betaalde advertentieplatforms zoals Google Ads of Meta Ads, hoef je niet constant geld uit te geven per klik om leads te genereren."
+      },
+      {
+        "title": "Langetermijngroei",
+        "desc": "Zodra jouw bedrijf een sterke positie in zoekresultaten heeft, blijft het jarenlang nieuwe klanten aantrekken zonder constante extra kosten."
+      }
+    ]
+  },
+  "beforeAfter": {
+    "title": "Voor & Na",
+    "subtitle": "Zie het verschil dat de juiste SEO-strategie maakt",
+    "before": "Voor",
+    "after": "Na",
+    "metrics": [
+      { "before": "Pagina 5 op Google", "after": "Positie #1" },
+      { "before": "2 leads / maand", "after": "30+ leads / maand" },
+      { "before": "Lokaal niet gevonden", "after": "#1 in lokale zoekopdrachten" },
+      { "before": "Lage online zichtbaarheid", "after": "Hoge online zichtbaarheid" }
+    ]
+  },
+  "process": {
+    "title": "Onze Werkwijze",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Gratis Analyse",
+        "desc": "Selecteer het pakket dat bij jouw bedrijf past en vul het formulier in om te starten."
+      },
+      {
+        "number": "02",
+        "title": "Onboarding",
+        "desc": "Wij begeleiden je door het onboardingproces en geven duidelijke instructies om ons veilig toegang te verlenen tot je profiel."
+      },
+      {
+        "number": "03",
+        "title": "Implementatie",
+        "desc": "Wij behandelen het volledige proces stap voor stap om consistente boekingen en aanvragen te genereren."
+      },
+      {
+        "number": "04",
+        "title": "Data & Optimalisatie",
+        "desc": "We monitoren continu belangrijke prestatiegegevens om te identificeren wat het beste werkt en optimaliseren voor nog betere resultaten."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Veelgestelde Vragen",
+    "items": [
+      {
+        "q": "Hoe lang duurt het voordat ik resultaten zie?",
+        "a": "SEO is een langetermijnstrategie. De meeste klanten zien meetbare verbeteringen binnen 3–6 maanden, met significante groei doorgaans tussen 6–12 maanden."
+      },
+      {
+        "q": "Moet ik een langetermijncontract ondertekenen?",
+        "a": "Nee, we binden je niet vast aan langetermijncontracten. We werken op maandbasis en je kunt op elk moment opzeggen met 30 dagen opzegtermijn."
+      },
+      {
+        "q": "Wat als ik al een website heb?",
+        "a": "Geen probleem! We werken met je bestaande website om deze te optimaliseren. Indien nodig kunnen we ook verbeteringen aanbevelen om de prestaties te verhogen."
+      },
+      {
+        "q": "Hoe meten jullie succes?",
+        "a": "We volgen belangrijke statistieken zoals zoekwoordrangschikkingen, organisch verkeer, gegenereerde leads en conversiepercentages. Je ontvangt regelmatige rapporten met je voortgang."
+      },
+      {
+        "q": "Kan ik op elk moment opzeggen?",
+        "a": "Ja. Wij geloven erin om je vertrouwen elke maand opnieuw te verdienen. Je kunt je abonnement op elk moment opzeggen met 30 dagen opzegtermijn."
+      },
+      {
+        "q": "Met welke sectoren werken jullie?",
+        "a": "We zijn gespecialiseerd in lokale bedrijven in een breed scala aan sectoren, waaronder retail, horeca, gezondheidszorg, juridisch en professionele dienstverlening."
+      }
+    ]
+  },
+  "packages": {
+    "title": "Onze Pakketten",
+    "subtitle": "Kies het plan dat past bij jouw bedrijfsdoelen",
+    "comingSoon": "Binnenkort beschikbaar",
+    "contactUs": "Neem Contact Op",
+    "items": [
+      {
+        "name": "Starter",
+        "desc": "Perfect voor kleine bedrijven die net beginnen met SEO.",
+        "features": ["Zoekwoordonderzoek", "On-page optimalisatie", "Maandelijkse rapportage"]
+      },
+      {
+        "name": "Groei",
+        "desc": "Voor bedrijven klaar om hun online aanwezigheid te versnellen.",
+        "features": ["Alles uit Starter", "Linkbuilding", "Contentstrategie", "Tweewekelijkse rapportage"],
+        "featured": true
+      },
+      {
+        "name": "Enterprise",
+        "desc": "Volledige marketing voor gevestigde bedrijven.",
+        "features": ["Alles uit Groei", "Aangepaste strategie", "Prioriteitsondersteuning", "Wekelijkse rapportage"]
+      }
+    ]
+  },
+  "contact": {
+    "title": "Neem Contact Op",
+    "subtitle": "Klaar om je bedrijf te laten groeien? Laten we praten.",
+    "name": "Naam",
+    "email": "E-mail",
+    "phone": "Telefoon (optioneel)",
+    "message": "Bericht",
+    "send": "Verstuur Bericht",
+    "namePlaceholder": "Jouw naam",
+    "emailPlaceholder": "jouw@email.com",
+    "phonePlaceholder": "+31 6 12345678",
+    "messagePlaceholder": "Vertel ons over jouw bedrijf..."
+  },
+  "footer": {
+    "slogan": "Own Your Local Market",
+    "copyright": "© 2024 Ede Marketing. Alle rechten voorbehouden.",
+    "links": {
+      "home": "Home",
+      "services": "Diensten",
+      "process": "Werkwijze",
+      "contact": "Contact"
+    }
+  }
+}

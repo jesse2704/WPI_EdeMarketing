@@ -1,0 +1,162 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "process": "Process",
+    "faq": "FAQ",
+    "packages": "Packages",
+    "contact": "Contact"
+  },
+  "hero": {
+    "tagline": "Grow Your Business Online",
+    "subtitle": "Result-driven marketing strategies tailored to your business. We help local businesses dominate their market.",
+    "cta": "Get Free Analysis"
+  },
+  "valueProps": {
+    "title": "Why Ede Marketing?",
+    "items": [
+      {
+        "title": "Result-Driven Strategies",
+        "desc": "Marketing focused on real growth, not just clicks."
+      },
+      {
+        "title": "Personal Approach",
+        "desc": "No standard solutions, but tailor-made strategy."
+      },
+      {
+        "title": "Data-Driven Marketing",
+        "desc": "Decisions based on data, not guessing."
+      }
+    ]
+  },
+  "benefits": {
+    "title": "Why SEO?",
+    "items": [
+      {
+        "title": "Visibility",
+        "desc": "Most potential clients choose one of the first results they see. If your business isn't ranking at least in the top 3, you're missing out on valuable opportunities."
+      },
+      {
+        "title": "No Ongoing Ad Spend",
+        "desc": "Unlike paid advertising platforms like Google Ads or Meta Ads, you don't need to keep spending money on every click to generate leads."
+      },
+      {
+        "title": "Long-Term Growth",
+        "desc": "Once your business secures a strong position in search results, it continues attracting new customers for years without constant additional costs."
+      }
+    ]
+  },
+  "beforeAfter": {
+    "title": "Before & After",
+    "subtitle": "See what a difference the right SEO strategy makes",
+    "before": "Before",
+    "after": "After",
+    "metrics": [
+      { "before": "Page 5 on Google", "after": "Position #1" },
+      { "before": "2 leads / month", "after": "30+ leads / month" },
+      { "before": "Not found locally", "after": "#1 in local search" },
+      { "before": "Low online visibility", "after": "High online visibility" }
+    ]
+  },
+  "process": {
+    "title": "How It Works",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Free Analysis",
+        "desc": "Select the package that fits your business and submit the form to get started."
+      },
+      {
+        "number": "02",
+        "title": "Onboarding",
+        "desc": "We'll guide you through the onboarding process and provide clear instructions to securely grant us access to your profile."
+      },
+      {
+        "number": "03",
+        "title": "Implementation",
+        "desc": "We will handle the full process step by step to help generate consistent bookings and inquiries."
+      },
+      {
+        "number": "04",
+        "title": "Data & Optimization",
+        "desc": "We continuously monitor key performance data to identify what works best and optimize for even better results."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": [
+      {
+        "q": "How long does it take to see results?",
+        "a": "SEO is a long-term strategy. Most clients start seeing measurable improvements within 3–6 months, with significant growth typically occurring between 6–12 months."
+      },
+      {
+        "q": "Do I need to sign a long-term contract?",
+        "a": "No, we don't lock you into long-term contracts. We work on a month-to-month basis, and you can cancel anytime with 30 days notice."
+      },
+      {
+        "q": "What if I already have a website?",
+        "a": "No problem! We work with your existing website to optimize it. If needed, we can also recommend improvements to increase performance."
+      },
+      {
+        "q": "How do you measure success?",
+        "a": "We track key metrics such as keyword rankings, organic traffic, leads generated, and conversion rates. You'll receive regular reports showing your progress."
+      },
+      {
+        "q": "Can I cancel anytime?",
+        "a": "Yes. We believe in earning your business every month. You can cancel your subscription at any time with 30 days notice."
+      },
+      {
+        "q": "What industries do you work with?",
+        "a": "We specialize in local businesses across a wide range of industries including retail, hospitality, healthcare, legal, and professional services."
+      }
+    ]
+  },
+  "packages": {
+    "title": "Our Packages",
+    "subtitle": "Choose the plan that fits your business goals",
+    "comingSoon": "Coming Soon",
+    "contactUs": "Contact Us",
+    "items": [
+      {
+        "name": "Starter",
+        "desc": "Perfect for small businesses just getting started with SEO.",
+        "features": ["Keyword research", "On-page optimization", "Monthly reporting"]
+      },
+      {
+        "name": "Growth",
+        "desc": "For businesses ready to accelerate their online presence.",
+        "features": ["Everything in Starter", "Link building", "Content strategy", "Bi-weekly reporting"],
+        "featured": true
+      },
+      {
+        "name": "Enterprise",
+        "desc": "Full-scale marketing for established businesses.",
+        "features": ["Everything in Growth", "Custom strategy", "Priority support", "Weekly reporting"]
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Ready to grow your business? Let's talk.",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone (optional)",
+    "message": "Message",
+    "send": "Send Message",
+    "namePlaceholder": "Your name",
+    "emailPlaceholder": "your@email.com",
+    "phonePlaceholder": "+31 6 12345678",
+    "messagePlaceholder": "Tell us about your business..."
+  },
+  "footer": {
+    "slogan": "Own Your Local Market",
+    "copyright": "© 2024 Ede Marketing. All rights reserved.",
+    "links": {
+      "home": "Home",
+      "services": "Services",
+      "process": "Process",
+      "contact": "Contact"
+    }
+  }
+}
