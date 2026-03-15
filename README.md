@@ -2,6 +2,10 @@
 
 A professional marketing website for Ede Marketing, built with React, Vite, Tailwind CSS, and Flowbite React.
 
+## Live Preview
+
+🔗 [https://jesse2704.github.io/WPI_EdeMarketing/](https://jesse2704.github.io/WPI_EdeMarketing/)
+
 ## Tech Stack
 
 - **React 18** with Vite
