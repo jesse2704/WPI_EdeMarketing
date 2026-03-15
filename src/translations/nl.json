@@ -11,7 +11,12 @@
   "hero": {
     "tagline": "Laat Je Bedrijf Online Groeien",
     "subtitle": "Resultaatgerichte marketingstrategieën op maat van jouw bedrijf. Wij helpen lokale bedrijven hun markt te domineren.",
-    "cta": "Gratis Analyse"
+    "cta": "Gratis Analyse",
+    "stats": [
+      { "value": "50+", "label": "Tevreden Klanten" },
+      { "value": "3×", "label": "Gem. Verkeersgroei" },
+      { "value": "5.0", "label": "Google Beoordeling" }
+    ]
   },
   "valueProps": {
     "title": "Waarom Ede Marketing?",
@@ -143,7 +148,8 @@
     "aggregate": {
       "score": "5.0",
       "based": "Gebaseerd op 50+ Google-beoordelingen",
-      "cta": "Bekijk alle reviews"
+      "cta": "Bekijk alle reviews",
+      "url": "https://www.google.com/search?q=Ede+Marketing+reviews"
     },
     "items": [
       {

@@ -11,7 +11,12 @@
   "hero": {
     "tagline": "Grow Your Business Online",
     "subtitle": "Result-driven marketing strategies tailored to your business. We help local businesses dominate their market.",
-    "cta": "Get Free Analysis"
+    "cta": "Get Free Analysis",
+    "stats": [
+      { "value": "50+", "label": "Satisfied Clients" },
+      { "value": "3×", "label": "Avg. Traffic Growth" },
+      { "value": "5.0", "label": "Google Rating" }
+    ]
   },
   "valueProps": {
     "title": "Why Ede Marketing?",
@@ -143,7 +148,8 @@
     "aggregate": {
       "score": "5.0",
       "based": "Based on 50+ Google reviews",
-      "cta": "See all reviews"
+      "cta": "See all reviews",
+      "url": "https://www.google.com/search?q=Ede+Marketing+reviews"
     },
     "items": [
       {

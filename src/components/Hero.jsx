@@ -39,7 +39,7 @@ export default function Hero() {
           </p>
 
           {/* CTA */}
-          <div className="flex items-center gap-4">
+          <div className="flex items-center gap-4 mb-16">
             <a
               href="#contact"
               className="bg-white text-black font-bold text-base px-8 py-4 hover:bg-white/90 transition-colors inline-block"
@@ -53,6 +53,16 @@ export default function Hero() {
               <span>Learn more</span>
               <span>→</span>
             </a>
+          </div>
+
+          {/* Stats row */}
+          <div className="grid grid-cols-3 gap-px bg-white/10">
+            {t.hero.stats.map((stat, i) => (
+              <div key={i} className="bg-black px-6 py-5">
+                <div className="text-3xl sm:text-4xl font-black text-white leading-none">{stat.value}</div>
+                <div className="text-white/40 text-xs sm:text-sm mt-1.5 uppercase tracking-wide">{stat.label}</div>
+              </div>
+            ))}
           </div>
         </div>
       </div>

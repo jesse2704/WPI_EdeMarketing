@@ -55,7 +55,7 @@ export default function Reviews() {
           </div>
           <div className="sm:ml-auto">
             <a
-              href="https://www.google.com/search?q=Ede+Marketing"
+              href={t.reviews.aggregate.url}
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block border border-white/30 hover:border-white text-white/70 hover:text-white text-sm font-bold px-5 py-2.5 transition-colors"
