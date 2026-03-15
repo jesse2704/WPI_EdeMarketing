@@ -3,6 +3,7 @@
     "home": "Home",
     "services": "Diensten",
     "process": "Werkwijze",
+    "reviews": "Reviews",
     "faq": "FAQ",
     "packages": "Pakketten",
     "contact": "Contact"
@@ -133,6 +134,32 @@
         "name": "Enterprise",
         "desc": "Volledige marketing voor gevestigde bedrijven.",
         "features": ["Alles uit Groei", "Aangepaste strategie", "Prioriteitsondersteuning", "Wekelijkse rapportage"]
+      }
+    ]
+  },
+  "reviews": {
+    "label": "Reviews",
+    "title": "Wat Onze Klanten Zeggen",
+    "aggregate": {
+      "score": "5.0",
+      "based": "Gebaseerd op 50+ Google-beoordelingen",
+      "cta": "Bekijk alle reviews"
+    },
+    "items": [
+      {
+        "quote": "Binnen 3 maanden gingen we van pagina 4 naar de top 3 op Google. Het aantal nieuwe klantvragen is meer dan verdubbeld. Absoluut elke cent waard.",
+        "name": "Mark de Vries",
+        "business": "Loodgieter & Verwarming, Ede"
+      },
+      {
+        "quote": "Geen loze beloftes — gewoon resultaten. Onze online zichtbaarheid is enorm verbeterd en we krijgen nu wekelijks consistente leads zonder te betalen voor advertenties.",
+        "name": "Sarah Jansen",
+        "business": "Schoonheidssalon, Wageningen"
+      },
+      {
+        "quote": "Zeer professioneel en persoonlijke aanpak. Ze namen de tijd om ons bedrijf te begrijpen en bouwden een strategie die echt werkt. Sterk aanbevolen.",
+        "name": "Thomas Bakker",
+        "business": "Hoveniersbedrijf, Veenendaal"
       }
     ]
   },

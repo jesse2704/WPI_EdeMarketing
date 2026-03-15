@@ -3,6 +3,7 @@
     "home": "Home",
     "services": "Services",
     "process": "Process",
+    "reviews": "Reviews",
     "faq": "FAQ",
     "packages": "Packages",
     "contact": "Contact"
@@ -133,6 +134,32 @@
         "name": "Enterprise",
         "desc": "Full-scale marketing for established businesses.",
         "features": ["Everything in Growth", "Custom strategy", "Priority support", "Weekly reporting"]
+      }
+    ]
+  },
+  "reviews": {
+    "label": "Reviews",
+    "title": "What Our Clients Say",
+    "aggregate": {
+      "score": "5.0",
+      "based": "Based on 50+ Google reviews",
+      "cta": "See all reviews"
+    },
+    "items": [
+      {
+        "quote": "Within 3 months we went from page 4 to the top 3 on Google. The number of new customer inquiries has more than doubled. Absolutely worth every cent.",
+        "name": "Mark de Vries",
+        "business": "Plumbing & Heating, Ede"
+      },
+      {
+        "quote": "No empty promises — just results. Our online visibility improved dramatically and we now get consistent leads every week without paying for ads.",
+        "name": "Sarah Jansen",
+        "business": "Beauty Salon, Wageningen"
+      },
+      {
+        "quote": "Very professional and personal approach. They took the time to understand our business and built a strategy that actually works. Highly recommended.",
+        "name": "Thomas Bakker",
+        "business": "Landscaping Company, Veenendaal"
       }
     ]
   },
