@@ -5,6 +5,7 @@ import ValueProps from './components/ValueProps'
 import Benefits from './components/Benefits'
 import BeforeAfter from './components/BeforeAfter'
 import Process from './components/Process'
+import Reviews from './components/Reviews'
 import FAQ from './components/FAQ'
 import Packages from './components/Packages'
 import Contact from './components/Contact'
@@ -20,6 +21,7 @@ export default function App() {
         <Benefits />
         <BeforeAfter />
         <Process />
+        <Reviews />
         <FAQ />
         <Packages />
         <Contact />

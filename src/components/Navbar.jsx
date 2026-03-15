@@ -8,6 +8,7 @@ export default function Navbar() {
   const navLinks = [
     { label: t.nav.services, href: '#services' },
     { label: t.nav.process, href: '#process' },
+    { label: t.nav.reviews, href: '#reviews' },
     { label: t.nav.faq, href: '#faq' },
     { label: t.nav.packages, href: '#packages' },
   ]
