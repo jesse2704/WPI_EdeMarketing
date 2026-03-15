@@ -53,15 +53,16 @@
     ]
   },
   "beforeAfter": {
-    "title": "Voor & Na",
+    "label": "Voor / Na",
+    "title": "Het Verschil",
     "subtitle": "Zie het verschil dat de juiste SEO-strategie maakt",
     "before": "Voor",
     "after": "Na",
     "metrics": [
-      { "before": "Pagina 5 op Google", "after": "Positie #1" },
-      { "before": "2 leads / maand", "after": "30+ leads / maand" },
-      { "before": "Lokaal niet gevonden", "after": "#1 in lokale zoekopdrachten" },
-      { "before": "Lage online zichtbaarheid", "after": "Hoge online zichtbaarheid" }
+      { "label": "Gemiddelde Positie", "before": "#86", "after": "#2" },
+      { "label": "Marktaandeel", "before": "1%", "after": "75%" },
+      { "label": "Clicks per Maand", "before": "5", "after": "150+" },
+      { "label": "Klanten per Maand", "before": "1-2", "after": "20+" }
     ]
   },
   "process": {

@@ -10,14 +10,15 @@ export default function BeforeAfter() {
         <div className="mb-16">
           <div className="flex items-center gap-3 mb-4">
             <div className="w-8 h-px bg-white"></div>
-            <span className="text-white/50 text-sm uppercase tracking-widest font-medium">{t.beforeAfter.title}</span>
+            <span className="text-white/50 text-sm uppercase tracking-widest font-medium">{t.beforeAfter.label}</span>
           </div>
           <h2 className="text-4xl sm:text-5xl font-black text-white max-w-lg leading-tight">{t.beforeAfter.title}</h2>
           <p className="text-white/40 text-lg mt-4">{t.beforeAfter.subtitle}</p>
         </div>
 
         {/* Column headers */}
-        <div className="grid grid-cols-2 gap-px bg-white/10 mb-px">
+        <div className="grid grid-cols-3 gap-px bg-white/10 mb-px">
+          <div className="bg-black/50 px-8 py-4"></div>
           <div className="bg-black px-8 py-4 flex items-center gap-3">
             <div className="w-2.5 h-2.5 border border-white/30"></div>
             <span className="text-white/30 text-xs uppercase tracking-widest font-bold">{t.beforeAfter.before}</span>
@@ -31,17 +32,21 @@ export default function BeforeAfter() {
         {/* Metric rows */}
         <div className="flex flex-col gap-px bg-white/10">
           {t.beforeAfter.metrics.map((metric, i) => (
-            <div key={i} className="grid grid-cols-2 gap-px bg-white/10">
+            <div key={i} className="grid grid-cols-3 gap-px bg-white/10">
+              {/* Label cell */}
+              <div className="bg-black/50 px-8 py-6 flex items-center">
+                <span className="text-white/60 text-sm sm:text-base font-medium">{metric.label}</span>
+              </div>
               {/* Before cell */}
               <div className="bg-black px-8 py-6 flex items-center gap-4">
                 <div className="w-1.5 h-1.5 bg-white/20 shrink-0"></div>
-                <span className="text-white/25 text-base sm:text-lg line-through decoration-white/20">{metric.before}</span>
+                <span className="text-white/25 text-xl sm:text-2xl font-black line-through decoration-white/20">{metric.before}</span>
               </div>
               {/* After cell */}
               <div className="bg-white px-8 py-6 flex items-center justify-between gap-4">
                 <div className="flex items-center gap-4">
                   <div className="w-1.5 h-1.5 bg-black shrink-0"></div>
-                  <span className="text-black text-base sm:text-lg font-bold">{metric.after}</span>
+                  <span className="text-black text-xl sm:text-2xl font-black">{metric.after}</span>
                 </div>
                 <span className="bg-black text-white text-xs font-black px-2 py-1 shrink-0">↑</span>
               </div>

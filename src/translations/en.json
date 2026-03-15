@@ -53,15 +53,16 @@
     ]
   },
   "beforeAfter": {
-    "title": "Before & After",
+    "label": "Before / After",
+    "title": "The Difference",
     "subtitle": "See what a difference the right SEO strategy makes",
     "before": "Before",
     "after": "After",
     "metrics": [
-      { "before": "Page 5 on Google", "after": "Position #1" },
-      { "before": "2 leads / month", "after": "30+ leads / month" },
-      { "before": "Not found locally", "after": "#1 in local search" },
-      { "before": "Low online visibility", "after": "High online visibility" }
+      { "label": "Average Ranking", "before": "#86", "after": "#2" },
+      { "label": "Market Share", "before": "1%", "after": "75%" },
+      { "label": "Clicks per Month", "before": "5", "after": "150+" },
+      { "label": "Customers per Month", "before": "1-2", "after": "20+" }
     ]
   },
   "process": {
